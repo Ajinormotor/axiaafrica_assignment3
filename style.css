@@ -1,0 +1,9 @@
+body {
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#one , #two{
+    cursor: pointer;
+}
